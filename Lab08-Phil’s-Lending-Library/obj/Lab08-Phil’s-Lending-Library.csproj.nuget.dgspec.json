@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/connerthompson/Projects/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj": {}
+    "/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj": {}
   },
   "projects": {
-    "/Users/connerthompson/Projects/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj": {
+    "/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/connerthompson/Projects/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj",
+        "projectUniqueName": "/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj",
         "projectName": "Lab08-Phil’s-Lending-Library",
-        "projectPath": "/Users/connerthompson/Projects/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj",
+        "projectPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library.csproj",
         "packagesPath": "/Users/connerthompson/.nuget/packages/",
-        "outputPath": "/Users/connerthompson/Projects/Lab08-Phil’s-Lending-Library/Lab08-Phil’s-Lending-Library/obj/",
+        "outputPath": "/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/connerthompson/.nuget/NuGet/NuGet.Config"
