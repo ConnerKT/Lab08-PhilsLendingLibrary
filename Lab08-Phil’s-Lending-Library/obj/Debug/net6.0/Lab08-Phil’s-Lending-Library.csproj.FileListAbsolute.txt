@@ -1,0 +1,15 @@
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/bin/Debug/net6.0/Lab08-Phil’s-Lending-Library
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/bin/Debug/net6.0/Lab08-Phil’s-Lending-Library.deps.json
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/bin/Debug/net6.0/Lab08-Phil’s-Lending-Library.runtimeconfig.json
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/bin/Debug/net6.0/Lab08-Phil’s-Lending-Library.dll
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/bin/Debug/net6.0/Lab08-Phil’s-Lending-Library.pdb
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.csproj.AssemblyReference.cache
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.AssemblyInfoInputs.cache
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.AssemblyInfo.cs
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.csproj.CoreCompileInputs.cache
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.dll
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/refint/Lab08-Phil’s-Lending-Library.dll
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.pdb
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/Lab08-Phil’s-Lending-Library.genruntimeconfig.cache
+/Users/connerthompson/Documents/Coding Central/GitHub/Lab08-PhilsLendingLibrary/Lab08-Phil’s-Lending-Library/obj/Debug/net6.0/ref/Lab08-Phil’s-Lending-Library.dll

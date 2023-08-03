@@ -6,7 +6,7 @@ namespace Lab08_Phil_s_Lending_Library
         /// <summary>
         /// Add a Book to the library.
         /// </summary>
-        void Add(string title, string firstName, string lastName, int numberOfPages);
+        void Add(string title, string author, int numberOfPages);
 
         /// <summary>
         /// Remove a Book from the library with the given title.

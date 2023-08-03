@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{93660726-93E5-4287-A351-30E784A30436}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab08-Phil_42019s-Lending-Library PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab08-Phil’s-Lending-Library/Program.cs">
+    <Files>
+      <File FileName="Lab08-Phil’s-Lending-Library/Library.cs" Line="67" Column="17" />
+      <File FileName="Lab08-Phil’s-Lending-Library/Program.cs" Line="39" Column="43" />
+      <File FileName="Lab08-Phil’s-Lending-Library/Bag.cs" Line="53" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab08-Phil’s-Lending-Library">
+            <Node name="Lab08-Phil’s-Lending-Library">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Lab08-Phil’s-Lending-Library" expanded="True" selected="True">
+            <Node name="Lab08-Phil’s-Lending-Library" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

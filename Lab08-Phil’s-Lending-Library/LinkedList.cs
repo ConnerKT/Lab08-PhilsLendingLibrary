@@ -1,5 +1,11 @@
 ﻿using System;
-namespace Lab08_Phil_s_Lending_Library
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab8
 {
     internal class LinkedList : IEnumerable<int>
     {
@@ -82,6 +88,7 @@ namespace Lab08_Phil_s_Lending_Library
         }
     }
 }
+
 
 
 
